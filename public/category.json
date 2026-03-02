@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "name": "Đồ len"
+    },
+     {
+        "id":2,
+        "name": "Đồ da"
+    },
+    {
+        "id":3,
+        "name": "Trang sức & Phụ kiện"
+    },
+     {
+        "id":4,
+        "name": "Đồ Gốm & Đất sét"
+    },
+    {
+        "id":5,
+        "name": "Nến thơm & Tinh dầu"
+    },
+     {
+        "id":6,
+        "name": "May mặc & Thêu thùa"
+    },
+    {
+        "id":7,
+        "name": "Sổ tay & Văn phòng phẩm"
+    },
+     {
+        "id":8,
+        "name": "Đồ trang trí Gỗ"
+    },
+    {
+        "id":9,
+        "name": "Tranh nghệ thuật (Handmade Art)"
+    },
+     {
+        "id":10,
+        "name": "Mỹ phẩm thiên nhiên (Natural Cosmetics)"
+    }
+]
